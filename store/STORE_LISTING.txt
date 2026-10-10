@@ -1,0 +1,75 @@
+================================================================
+STORE LISTING — Qavex Backgammon Gold
+Package: com.qavex.qavexbackgammongold
+Category: Board
+Developer: muhammad ehtasham (QAVEX)
+================================================================
+
+APP NAME
+Qavex Backgammon Gold
+
+SHORT DESCRIPTION (80 chars)
+Classic backgammon with golden style. Official rules, 4 AI levels, offline.
+
+FULL DESCRIPTION
+Qavex Backgammon Gold brings the world's oldest board game to your pocket —
+wrapped in a luxurious golden table, with official tournament rules and
+opponents for every skill level.
+
+♟️ OFFICIAL BACKGAMMON RULES
+• Full legal move generation: hitting blots, re-entering from the bar,
+  bearing off, gammon & backgammon scoring
+• Doubling cube with proper offer/accept/decline flow
+• Crawford rule applied in the Tournament Ladder final round
+
+🤖 FOUR AI OPPONENTS
+• Easy — learn the ropes
+• Medium — a solid club player
+• Hard — sharp tactics and smart cube play
+• Expert — deep lookahead with opponent-reply evaluation, time-capped so
+  it never keeps you waiting
+
+🎮 7 GAME MODES
+• Classic — full official rules vs the AI
+• vs AI — quick casual match
+• Pass & Play — two players, one device
+• Timed Blitz — beat the 5-minute clock
+• Tournament Ladder — five rounds from Easy to Expert
+• Doubling Cube Masters — survive an aggressive doubling AI
+• Practice — relaxed games with hints always on
+
+✨ YOUR TABLE, YOUR STYLE
+• 8 hand-crafted themes, each with a unique 6-color palette
+• Signature "Golden Table": gold, deep brown, ivory, brass, burgundy, cream
+• Midnight, Ocean, Neon, Classic Wood, Royal Green, Mono, Desert
+• Unlockable board frames and checker skins
+
+🏆 PROGRESS THAT STICKS
+• 60 achievements, lifetime stats, win streaks and daily streaks
+• Doubloon Coins earned by playing — spend them in the shop
+• Kids Mode: bigger text, automatic hints, no doubling cube
+• Accessibility-minded: large touch targets, high-contrast themes
+
+🔒 PRIVATE & OFFLINE
+• 100% offline — no account, no ads, no tracking
+• One optional in-app purchase ("Buy Me a Coffee", $0.99) to support the
+  developer. It never gates gameplay.
+
+Whether you're learning your first opening roll or hunting gammons against
+Expert AI, Qavex Backgammon Gold is the table you'll keep coming back to.
+
+WHAT'S NEW (1.0.0)
+Initial release: 7 modes, 4 AI levels, 8 themes, 60 achievements, official
+rules with doubling cube and Crawford rule, offline play, no ads.
+
+----------------------------------------------------------------
+CONTACT
+Developer: muhammad ehtasham
+Brand: QAVEX — https://www.qavex.company/
+Support: games@qavex.company
+Phone: +923375621550
+
+TAGS
+backgammon, board game, classic board game, doubling cube, offline games,
+no ads, strategy game, tavla, backgammon gold, table games, 2 player games
+----------------------------------------------------------------

@@ -1,0 +1,56 @@
+================================================================
+PRIVACY POLICY — Qavex Backgammon Gold
+Effective: October 10, 2026
+Developer: muhammad ehtasham (QAVEX)
+================================================================
+
+Qavex Backgammon Gold ("the App") is developed by muhammad ehtasham
+under the QAVEX brand (https://www.qavex.company/). Your privacy
+matters. This policy explains what the App does — and does not do —
+with your information.
+
+1. NO DATA COLLECTION
+The App collects no personal data. It does not ask for your name,
+email, phone number, location, contacts, or any other personal
+information. There is no account, no sign-in, and no server that
+receives your data.
+
+2. ON-DEVICE STORAGE ONLY
+Game progress, statistics, achievements, settings, themes, and your
+Doubloon Coins balance are stored locally on your device using the
+operating system's standard app storage. This data never leaves your
+device. Deleting the App deletes this data.
+
+3. NO ADVERTISING, NO TRACKERS
+The App contains no advertisements and no third-party analytics,
+tracking, or advertising SDKs.
+
+4. IN-APP PURCHASE
+The App offers a single optional in-app purchase: "Buy Me a Coffee"
+($0.99, product ID: qavexbackgammongoldcoffee). Purchases are processed
+entirely by the Google Play Store under Google's own privacy policy.
+QAVEX does not receive or store your payment details. The purchase is
+a voluntary tip and never gates gameplay.
+
+5. PERMISSIONS
+The App requests no sensitive device permissions. It works fully
+offline and requires no network access for gameplay.
+
+6. CHILDREN
+The App is suitable for general audiences and includes a Kids Mode
+(bigger text, automatic hints, no doubling cube). Because the App
+collects no data from anyone, there is nothing to collect from
+children either.
+
+7. CHANGES TO THIS POLICY
+If this policy changes, the updated version will be published with
+the App's store listing. Continued use of the App after changes take
+effect constitutes acceptance.
+
+8. CONTACT
+Developer: muhammad ehtasham
+Brand: QAVEX — https://www.qavex.company/
+Email: games@qavex.company
+Phone: +923375621550
+
+================================================================

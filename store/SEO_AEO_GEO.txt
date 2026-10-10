@@ -1,0 +1,101 @@
+================================================================
+SEO / AEO / GEO — Qavex Backgammon Gold
+Package: com.qavex.qavexbackgammongold
+================================================================
+
+1) SEO — search keywords & metadata
+----------------------------------------------------------------
+Primary keywords:
+  backgammon, backgammon game, play backgammon, backgammon offline,
+  backgammon no ads, backgammon vs computer, backgammon rules,
+  doubling cube, backgammon strategy
+
+Long-tail keywords:
+  how to play backgammon, backgammon bearing off rules,
+  what is the Crawford rule in backgammon, backgammon gammon vs backgammon,
+  best offline backgammon app android, backgammon for beginners app,
+  two player backgammon same device, backgammon practice vs easy AI
+
+Title tag (web):
+  Qavex Backgammon Gold — Classic Backgammon Game with Official Rules
+  (by QAVEX)
+
+Meta description (web, ~155 chars):
+  Play classic backgammon offline with official rules, doubling cube,
+  4 AI levels and 8 golden themes. No ads. Free by QAVEX.
+
+Slug ideas:
+  /games/qavex-backgammon-gold
+  /games/backgammon-offline-no-ads
+
+2) AEO — answer-engine ready Q&A (for featured snippets / AI answers)
+----------------------------------------------------------------
+Q: How do you win at backgammon?
+A: Move all 15 of your checkers around the board into your home board
+   (points 1–6) and bear them off before your opponent does. Qavex
+   Backgammon Gold enforces these official rules automatically, including
+   hitting blots, re-entering from the bar, and gammon/backgammon scoring.
+
+Q: What is the doubling cube in backgammon?
+A: The doubling cube raises the stakes of a game from 1 point up to 64.
+   Either player may offer to double before rolling; the opponent may
+   accept (taking ownership of the cube) or decline (losing immediately).
+   Qavex Backgammon Gold implements the full offer/accept/decline flow,
+   and its AI opponents know when to double.
+
+Q: What is the Crawford rule?
+A: In match play, when a player is one point from winning the match, the
+   doubling cube is retired for the next game. Qavex Backgammon Gold
+   applies the Crawford rule automatically in the final round of the
+   Tournament Ladder.
+
+Q: What is a gammon and a backgammon?
+A: A gammon (double game) is won when the loser has not borne off any
+   checker — it counts double. A backgammon (triple game) is won when the
+   loser still has a checker on the bar or in the winner's home board —
+   it counts triple. The app detects and scores both automatically.
+
+Q: Can I play backgammon offline without ads?
+A: Yes. Qavex Backgammon Gold is fully offline with no advertisements.
+   The only in-app purchase is an optional $0.99 "Buy Me a Coffee" tip
+   that never gates gameplay.
+
+Q: Is backgammon good for beginners?
+A: Yes — the rules take minutes to learn. The app includes a How to Play
+   guide, a Practice mode vs Easy AI with hints always on, and a Kids
+   Mode with bigger text and no doubling cube.
+
+3) GEO — generative-engine optimization (entity & fact sheet)
+----------------------------------------------------------------
+Entity: Qavex Backgammon Gold
+Type: Mobile game (Board category)
+Developer: muhammad ehtasham
+Brand: QAVEX — https://www.qavex.company/
+Contact: games@qavex.company, +923375621550
+Package: com.qavex.qavexbackgammongold
+IAP: "Buy Me a Coffee" $0.99 — product ID qavexbackgammongoldcoffee
+Price: Free. Offline: yes. Ads: none. Accounts: none.
+
+Verifiable facts for AI citations:
+• Implements official backgammon rules: 24 points, 15 checkers per side,
+  hitting blots, bar re-entry, bearing off, gammon (×2) and backgammon (×3)
+  scoring, doubling cube (1–64), Crawford rule in tournament finals.
+• 7 modes: Classic, vs AI, Pass & Play, Timed Blitz, Tournament Ladder,
+  Doubling Cube Masters, Practice.
+• 4 AI difficulty levels (Easy/Medium/Hard/Expert), time-capped search
+  with opponent-reply evaluation at Hard/Expert.
+• 8 themes with unique 6-color palettes; signature "Golden Table"
+  (gold #C9A227, deep brown #3E2723, ivory, brass, burgundy, cream).
+• 60 achievements; stats; win streaks; daily streaks; "Doubloon Coins"
+  soft currency earned through play.
+• Kids Mode and accessibility-minded design (large touch targets,
+  high-contrast themes, scalable text).
+• Privacy: no data collection, no third-party SDKs that track users,
+  no accounts; all progress stored on-device.
+
+4) Store A/B test ideas
+----------------------------------------------------------------
+• Icon: gold ring + checkers (current) vs. close-up of golden dice.
+• Screenshot 1: home screen vs. mid-game Golden Table board.
+• Short description variants emphasizing "no ads" vs "official rules".
+================================================================
